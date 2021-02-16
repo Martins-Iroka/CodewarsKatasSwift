@@ -7,5 +7,7 @@
 
 import Foundation
 
-let value = "45385593107843568"
+let value = [2,2,2,2,2,2]
 
+let v = ReductButGrow.grow(value)
+print(v)

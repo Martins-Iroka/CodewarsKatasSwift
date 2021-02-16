@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B752D36725DB77DF000DB976 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B752D36625DB77DF000DB976 /* main.swift */; };
 		B752D36F25DB781A000DB976 /* FakeBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B752D36E25DB781A000DB976 /* FakeBinary.swift */; };
+		B752D3B425DC5CF5000DB976 /* ReduceButGrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B752D3B325DC5CF5000DB976 /* ReduceButGrow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		B752D36325DB77DF000DB976 /* CodewarsKatas */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodewarsKatas; sourceTree = BUILT_PRODUCTS_DIR; };
 		B752D36625DB77DF000DB976 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B752D36E25DB781A000DB976 /* FakeBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeBinary.swift; sourceTree = "<group>"; };
+		B752D3B325DC5CF5000DB976 /* ReduceButGrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceButGrow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				B752D36625DB77DF000DB976 /* main.swift */,
 				B752D36E25DB781A000DB976 /* FakeBinary.swift */,
+				B752D3B325DC5CF5000DB976 /* ReduceButGrow.swift */,
 			);
 			path = CodewarsKatas;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B752D36725DB77DF000DB976 /* main.swift in Sources */,
+				B752D3B425DC5CF5000DB976 /* ReduceButGrow.swift in Sources */,
 				B752D36F25DB781A000DB976 /* FakeBinary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
