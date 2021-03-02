@@ -10,6 +10,7 @@
 		B752D36725DB77DF000DB976 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B752D36625DB77DF000DB976 /* main.swift */; };
 		B752D36F25DB781A000DB976 /* FakeBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B752D36E25DB781A000DB976 /* FakeBinary.swift */; };
 		B752D3B425DC5CF5000DB976 /* ReduceButGrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B752D3B325DC5CF5000DB976 /* ReduceButGrow.swift */; };
+		B7BC578725EE5CFC00C16786 /* TerminalGameMoveFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7BC578625EE5CFC00C16786 /* TerminalGameMoveFunction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		B752D36625DB77DF000DB976 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B752D36E25DB781A000DB976 /* FakeBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeBinary.swift; sourceTree = "<group>"; };
 		B752D3B325DC5CF5000DB976 /* ReduceButGrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceButGrow.swift; sourceTree = "<group>"; };
+		B7BC578625EE5CFC00C16786 /* TerminalGameMoveFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TerminalGameMoveFunction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				B752D36625DB77DF000DB976 /* main.swift */,
 				B752D36E25DB781A000DB976 /* FakeBinary.swift */,
 				B752D3B325DC5CF5000DB976 /* ReduceButGrow.swift */,
+				B7BC578625EE5CFC00C16786 /* TerminalGameMoveFunction.swift */,
 			);
 			path = CodewarsKatas;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7BC578725EE5CFC00C16786 /* TerminalGameMoveFunction.swift in Sources */,
 				B752D36725DB77DF000DB976 /* main.swift in Sources */,
 				B752D3B425DC5CF5000DB976 /* ReduceButGrow.swift in Sources */,
 				B752D36F25DB781A000DB976 /* FakeBinary.swift in Sources */,

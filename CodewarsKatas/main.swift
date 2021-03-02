@@ -2,12 +2,12 @@
 //  main.swift
 //  CodewarsKatas
 //
-//  Created by TellerOne on 2/16/21.
+//  Created by Martins on 2/16/21.
 //
 
 import Foundation
 
 let value = [2,2,2,2,2,2]
 
-let v = ReductButGrow.grow(value)
+let v = TerminalGameMoveFunction.move(3, 6)
 print(v)
